@@ -1,0 +1,5 @@
+def dlugosc(x):
+    if dlugosc(x) ==0:
+        return 0
+    else:
+        return 1+dlugosc(x[1:])
