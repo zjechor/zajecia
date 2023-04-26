@@ -3,3 +3,4 @@ def szerokosc(x):
         return 0
     else:
         return 1+dlugosc(x[1:])
+print("Super kod kochana tak trzymaj!!")
